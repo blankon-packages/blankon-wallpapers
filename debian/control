@@ -2,7 +2,7 @@ Source: blankon-wallpapers
 Section: x11
 Priority: optional
 Maintainer: Anto Samalona <ansamsoftdev@gmail.com>
-Uploaders: Hanhan Husna <matcherapy@gmail.com>
+Uploaders: Anto Samalona <ansamsoftdev@gmail.com>
 XSBC-Original-Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
 Build-Depends: debhelper (>= 11),
                python3,
