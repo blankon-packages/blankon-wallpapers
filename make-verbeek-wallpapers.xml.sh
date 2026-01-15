@@ -1,28 +1,26 @@
 #!/bin/bash
-function create(){
-  HEADER='<?xml version="1.0"?>
-  \n<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
-  \n<wallpapers>'
 
-  CONTENTS='\t<wallpaper>
-  \n\t\t<_name>XXX</_name>
-  \n\t\t<filename>/usr/share/backgrounds/YYY</filename>
-  \n\t\t<options>zoom</options>
-  \n\t\t<pcolor>#000000</pcolor>
-  \n\t\t<scolor>#000000</scolor>
-  \n\t\t<shade_type>solid</shade_type>
-  \n\t</wallpaper>'
+shopt -s nullglob
 
-  FOOTER='\n</wallpapers>'
+echo """<?xml version=\"1.0\"?>
+<!DOCTYPE wallpapers SYSTEM \"gnome-wp-list.dtd\">
+<wallpapers>
+ <wallpaper deleted=\"false\">
+   <name>BlankOn Verbeek  Wallpapers</name>
+   <filename>/usr/share/backgrounds/contex/verbeek.xml</filename>
+   <options>zoom</options>
+ </wallpaper>"""
 
-  echo -e $HEADER
-  for file in $(ls | grep 'png\|jpg')
-  do
-    name="`echo $file | sed 's/.png//; s/.jpg//; s/-/ /g; s/_/ /g; s/\<./\U&/g'`"
-    # echo -e $CONTENTS;
-    echo -e $CONTENTS | sed "s/XXX/${name}/; s/YYY/${file}/ "
-  done
-  echo -e $FOOTER;
-}
-
-rm -rf verbeek-wallpapers.xml.in && create > verbeek-wallpapers.xml.in
+for i in *.{jpg,png}; do
+    FN=${i//_/ }
+    TITLE=${FN% by*}
+    echo """ <wallpaper>
+     <_name>${TITLE}</_name>
+     <filename>/usr/share/backgrounds/${i}</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>"""
+done
+echo "</wallpapers>"
