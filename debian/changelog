@@ -1,0 +1,260 @@
+blankon-wallpapers (0.10.25) verbeek; urgency=medium
+
+  * Change uploader
+  * Rebuild for verbeek
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Sun, 19 Sep 2021 06:48:56 +0800
+
+blankon-wallpapers (0.10.24) verbeek; urgency=medium
+
+  * change uploader
+  * change dependencies
+
+ -- Hanhan Husna <matcherapy@gmail.com>  Wed, 21 Apr 2021 06:12:52 +0700
+
+blankon-wallpapers (0.10.23) verbeek; urgency=medium
+
+  * add Boni 2021, calabai, smallworld
+  * Rebuild for verbeek
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Mon, 08 Feb 2021 15:16:57 +0800
+
+blankon-wallpapers (0.10.22) uluwatu; urgency=medium
+
+  * add sawah.jpg from Teguh Ardiansyah
+
+ -- antosamalona <ansamsoftdev@gmail.com>  Wed, 18 Apr 2018 00:34:37 +0800
+
+blankon-wallpapers (0.10.21) uluwatu; urgency=medium
+
+  * Rebuild
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Mon, 25 Sep 2017 20:44:49 +0800
+
+blankon-wallpapers (0.10.20) uluwatu; urgency=medium
+
+  * Rebuild 
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Tue, 15 Aug 2017 23:31:38 +0800
+
+blankon-wallpapers (0.10.19) uluwatu; urgency=medium
+
+  * change control to uluwatu
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 21:27:08 +0700
+
+blankon-wallpapers (0.10.18) uluwatu; urgency=medium
+
+  * update POTFILES
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 13:18:11 +0700
+
+blankon-wallpapers (0.10.17) uluwatu; urgency=medium
+
+  * Change postins to uluwatu
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 12:09:49 +0700
+
+blankon-wallpapers (0.10.16) uluwatu; urgency=medium
+
+  * fix contex/uluwatu.xml
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 11:54:03 +0700
+
+blankon-wallpapers (0.10.15) uluwatu; urgency=medium
+
+  * remove tambora wallpaper
+  * add uluwatu wallpaper
+  * add script for generate xml
+
+ -- Aris Winardi <ariswinardy@gmail.com>  Tue, 15 Aug 2017 11:37:30 +0700
+
+blankon-wallpapers (0.10.14) uluwatu; urgency=medium
+
+  * Upload to uluwatu
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Thu, 11 May 2017 21:36:35 +0800
+
+blankon-wallpapers (0.10.13) tambora-updates; urgency=medium
+
+  * fix typo of Boni_4.png in wallpapers
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Sat, 18 Mar 2017 19:27:13 +0800
+
+blankon-wallpapers (0.10.12) tambora-updates; urgency=medium
+
+  * resubmit
+
+ -- AnTo SamalonA <antosamalona@masDell>  Wed, 11 Jan 2017 21:49:11 +0800
+
+blankon-wallpapers (0.10.11) tambora; urgency=medium
+
+  * Add Boni_1.png,Boni_2.png,Boni_3.png,Boni_4.png
+
+ -- AnTo SamalonA <antosamalona@masDell>  Wed, 11 Jan 2017 20:49:17 +0800
+
+blankon-wallpapers (0.10.10) tambora; urgency=medium
+
+  * Add Sukabumi.jpg
+
+ -- Syai Mif <syaimif@localhost>  Sun, 17 Jul 2016 13:44:01 +0700
+
+blankon-wallpapers (0.10.9) tambora; urgency=medium
+
+  * Add Mosaic_1_Red.png 
+
+ -- dotovr <dotovr@preko>  Wed, 13 Jul 2016 20:54:44 +0700
+
+blankon-wallpapers (0.10.8) tambora; urgency=medium
+
+  * New upstream relase
+   - Added xecure-wallpapers contextual and xecure-wallpapers.xml.in
+   - Added xecure.xml /contex
+   - Added xecure-wallpapers.install
+   - Modify in blankon-wallpapers.postint 
+
+ -- Syai Mif <syaimif@di.blankon.in>  Tue, 07 Jun 2016 14:47:11 +0700
+
+blankon-wallpapers (0.10.7) tambora; urgency=medium
+
+  * tambah batik,bunga,daun,mosaic 
+
+ -- Aris Winardi <me@arwin.my.id>  Mon, 28 Sep 2015 23:28:18 +0700
+
+blankon-wallpapers (0.10.6) tambora; urgency=medium
+
+  * Add Cendawan.jpg by Herpiko
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 16 May 2015 09:04:45 +0700
+
+blankon-wallpapers (0.10.5) tambora; urgency=medium
+
+  * Add Gulali.png by Azis Ws
+  * remove Bunga_1.png
+
+ -- Syai Mif <syaimif@di.blankon.in>  Sat, 02 May 2015 10:23:32 +0700
+
+blankon-wallpapers (0.10.4) tambora; urgency=low
+
+  * Add Sunrise.png by Sokhibi
+  * remove OIX.png
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 30 Apr 2015 00:59:30 +0700
+
+blankon-wallpapers (0.10.3) tambora; urgency=low
+
+  * Upstream versi
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 16 Apr 2015 14:48:44 +0700
+
+blankon-wallpapers (0.10.2) tambora; urgency=low
+
+  * Added more wallpaper
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 16 Apr 2015 14:32:30 +0700
+
+blankon-wallpapers (0.10.1) tambora; urgency=low
+
+  * Added two photo Lasiana Beach by Yususf Sulaiman
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Wed, 14 May 2014 08:25:16 +0700
+
+blankon-wallpapers (0.10.0) tambora; urgency=medium
+
+  * New upstream release
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 05 Mar 2014 22:37:39 +0700
+
+blankon-wallpapers (0.8.7) tambora; urgency=low
+
+  * First upload to tambora
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Wed, 05 Mar 2014 11:05:31 +0700
+
+blankon-wallpapers (0.8.6) suroboyo-updates; urgency=low
+
+  * Add extra wallpaper
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Wed, 05 Mar 2014 10:05:06 +0700
+
+blankon-wallpapers (0.8.5) suroboyo; urgency=low
+
+  * fix error load extra wallpaper
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 08 Nov 2013 23:03:41 +0700
+
+blankon-wallpapers (0.8.4) suroboyo; urgency=low
+
+  * Added extra wallpaper
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 08 Nov 2013 21:29:45 +0700
+
+blankon-wallpapers (0.8.3) suroboyo; urgency=low
+
+  * debian/control:
+    - Drop conflicts: blankon-wallpapers-rote
+    - Fix typo 
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Tue, 29 Oct 2013 17:47:26 +0700
+
+blankon-wallpapers (0.8.2) suroboyo; urgency=low
+
+  * Updates wallpaper
+
+ -- princeofgiri <princeofgiri@di.blankon.in>  Wed, 16 Oct 2013 19:51:31 +0700
+
+blankon-wallpapers (0.8.1) suroboyo; urgency=low
+
+  * Replaces blankon-wallpapers-rote
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 06 Feb 2013 23:56:29 +0700
+
+blankon-wallpapers (0.8) suroboyo; urgency=low
+
+  * conflicts blankon-wallpapers-rote
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 19 Dec 2012 14:09:39 +0700
+
+blankon-wallpapers (0.7) suroboyo; urgency=low
+
+  * remove suroboyo folder
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 10 Dec 2012 19:57:40 +0700
+
+blankon-wallpapers (0.6) suroboyo; urgency=low
+
+  * Added new contextual wallpaper
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 08 Dec 2012 19:56:46 +0700
+
+blankon-wallpapers (0.5) suroboyo; urgency=low
+
+  * Suroboyo wallpaper
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 08 Dec 2012 14:12:26 +0700
+
+blankon-wallpapers (0.4) rote; urgency=low
+
+  * added 17-agustus.png
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 16 Aug 2012 11:26:53 +0700
+
+blankon-wallpapers (0.3) rote; urgency=low
+
+  * Fix duplicate rote.xml.
+  * Fix duplicate name.
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 26 Jul 2012 02:39:43 +0700
+
+blankon-wallpapers (0.2) rote; urgency=low
+
+  * Added contex/rote.xml
+    - Make backgrounds slideshow
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 26 Jul 2012 00:41:22 +0700
+
+blankon-wallpapers (0.1) rote; urgency=low
+
+  * Initial release
+
+ -- Mahyuddin <yudi.al@gmail.com>  Fri, 13 Jul 2012 23:10:18 +0700

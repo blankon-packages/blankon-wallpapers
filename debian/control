@@ -1,0 +1,29 @@
+Source: blankon-wallpapers
+Section: x11
+Priority: optional
+Maintainer: Anto Samalona <ansamsoftdev@gmail.com>
+Uploaders: Anto Samalona <ansamsoftdev@gmail.com>
+XSBC-Original-Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
+Build-Depends: debhelper (>= 11),
+               python3,
+Build-Depends-Indep: python3-distutils-extra,
+Standards-Version: 4.1.3
+
+Package: blankon-wallpapers
+Architecture: all
+Section: metapackages
+Depends: ${misc:Depends},
+         blankon-wallpapers-verbeek
+Conflicts: blankon-wallpapers-rote, blankon-wallpapers-suroboyo, blankon-wallpapers-tambora, blankon-wallpapers-uluwatu
+Replaces: blankon-wallpapers-rote, blankon-wallpapers-suroboyo, blankon-wallpapers-tambora, blankon-wallpapers-uluwatu
+Description: BlankOn Wallpapers
+ The default BlankOn wallpaper. This is also a meta-package depending on the 
+ other default wallpapers for the current BlankOn release.
+
+Package: blankon-wallpapers-verbeek
+Architecture: all
+Depends: ${misc:Depends}
+Conflicts: blankon-wallpapers-rote, blankon-wallpapers-suroboyo, blankon-wallpapers-tambora, blankon-wallpapers-uluwatu
+Replaces: blankon-wallpapers-rote, blankon-wallpapers-suroboyo, blankon-wallpapers-tambora, blankon-wallpapers-uluwatu
+Description: BlankOn Verbeek Wallpapers
+ The default BlankOn wallpapers for the current BlankOn 12 release.
