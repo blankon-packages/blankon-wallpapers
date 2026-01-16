@@ -4,10 +4,7 @@ Priority: optional
 Maintainer: Anto Samalona <ansamsoftdev@gmail.com>
 Uploaders: Anto Samalona <ansamsoftdev@gmail.com>
 XSBC-Original-Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
-Build-Depends: debhelper (>= 11),
-               cdbs,
-               python3,
-Build-Depends-Indep: python3-distutils-extra,
+Build-Depends: debhelper (>= 11)
 Standards-Version: 4.1.3
 
 Package: blankon-wallpapers

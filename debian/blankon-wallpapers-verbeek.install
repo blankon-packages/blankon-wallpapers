@@ -1,3 +1,2 @@
 *.png usr/share/backgrounds/
-*.jpg usr/share/backgrounds/
-usr/share/gnome-background-properties/verbeek-wallpapers.xml
+verbeek-wallpapers.xml usr/share/gnome-background-properties/
