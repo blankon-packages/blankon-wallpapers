@@ -5,6 +5,7 @@ Maintainer: Anto Samalona <ansamsoftdev@gmail.com>
 Uploaders: Anto Samalona <ansamsoftdev@gmail.com>
 XSBC-Original-Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
 Build-Depends: debhelper (>= 11),
+               cdbs,
                python3,
 Build-Depends-Indep: python3-distutils-extra,
 Standards-Version: 4.1.3
